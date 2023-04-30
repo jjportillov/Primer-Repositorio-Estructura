@@ -1,0 +1,15 @@
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\bin\Debug\net7.0\Laboratorio-1-Estructura-I.exe
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\bin\Debug\net7.0\Laboratorio-1-Estructura-I.deps.json
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\bin\Debug\net7.0\Laboratorio-1-Estructura-I.runtimeconfig.json
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\bin\Debug\net7.0\Laboratorio-1-Estructura-I.dll
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\bin\Debug\net7.0\Laboratorio-1-Estructura-I.pdb
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.csproj.AssemblyReference.cache
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.AssemblyInfoInputs.cache
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.AssemblyInfo.cs
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.csproj.CoreCompileInputs.cache
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.dll
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\refint\Laboratorio-1-Estructura-I.dll
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.pdb
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\Laboratorio-1-Estructura-I.genruntimeconfig.cache
+C:\Users\julio\repositorios\Primer-Repositorio-Estructura\Laboratorio-1-Estructura-I\obj\Debug\net7.0\ref\Laboratorio-1-Estructura-I.dll
